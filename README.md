@@ -5,3 +5,4 @@ Sorting algorithms are fundamental in computer science and are used to arrange e
 3)Insertion Sort      O(n2)
 4)Merge Sort          O(n log n)
 5)Quick Sort          O(n log n)
+link http://localhost:5173/
